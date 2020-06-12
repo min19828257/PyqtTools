@@ -7,11 +7,7 @@
 
 OS X & 리눅스 & 윈도우:
 
-pip install -r requirements.txt
-
-
 ## 사용 예제
-
 
 ## 개발 환경 설정
 
