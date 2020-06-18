@@ -25,6 +25,7 @@ class main(QWidget):
         self.btn1 = QPushButton("보통")
         self.btn2 = QPushButton("쓰레드")
         self.btn3 = QPushButton("초기화")
+        self.setStyleSheet("background-color: white;") 
 
         self.setUi()
         self.setSlot()
